@@ -23,6 +23,19 @@ Besides this it is good to have an editor to work with the code as: [VSCode](htt
 
 ## 📜 How to Use
 
+<b>Sequence of Steps - Using GitBash:</b>
+
+  1. Create a folder where the files will go, you can do this using the command ```mkdir Folder_Name```.
+  2. In GitBash, use the command ```cd Folder_Name``` to get into the folder.
+  3. Still in GitBash, use the command ```git clone https://github.com/Pedro0901/Questions-And-Answers.git```to clone the repository.
+  4. After that the files go straight into the folder you created and you can run the program or make changes to the code.
+  
+<b>Alternative method:</b>
+
+![TutorialDownloadZip](https://user-images.githubusercontent.com/67847487/120869465-ebe93080-c56c-11eb-92ea-0d284cfd3153.jpg)
+
+Inside the [repository](https://github.com/Pedro0901/Questions-And-Answers), go to "Code" and select the "Download zip" option. After the download you should extract this .zip file, using some program like [WinRar](https://www.win-rar.com/download.html?&L=0) to unzip it.
+
 Simply click on the file "Questions_and_Answers.exe" and run it.
 
   * ### 🤔 What is the functionality of the repository files?
