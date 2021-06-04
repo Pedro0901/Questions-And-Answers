@@ -47,6 +47,10 @@ Para rodar o programa, você só precisará clicar no arquivo <b>"Perguntas_E_Re
   * ### 🐞 Bugs
     Caso o programa não esteja rodando, recomendo que desative seu anti-vírus, pois por ser um programa criado por outra pessoa, o anti-vírus pode acusar como vírus mesmo não sendo.
     
+  * ### 🔝 Melhorias
+    Esse jogo foi criado apenas para colocar em prática algumas coisas que aprendi, não está pronto e pretendo melhorá-lo futuramente.
+    
+    <i><b>Obs: Esse jogo foi desenvolvido em Julho de 2020.</i></b> 
     
 ## :hammer_and_wrench: Tecnologias
 
