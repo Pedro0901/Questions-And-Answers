@@ -59,4 +59,4 @@ Made with ❤️ by Pedro Dantas. [Get in touch!](https://www.linkedin.com/in/pe
   
 ## 🗣️ Other languages
   
-  * [Portuguese/Português](https://github.com/Pedro0901/Questions-And-Answers/blob/master/README.md)
+  * 🇧🇷 [Portuguese/Português](https://github.com/Pedro0901/Questions-And-Answers/blob/master/README.md)
