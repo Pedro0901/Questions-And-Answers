@@ -1,6 +1,5 @@
 <h1 align="center">
   <img src="https://sjsp.org.br/images/perguntas-e-respostas-nossos-direitos-t-1000x1000x-0019a.png" width="730px" height="400px" />
-  <title="Progressão Aritmética e Geométrica (PA e PG) />
 </h1>
 
 ## 🧩 Jogo de Perguntas e Respostas.
@@ -52,3 +51,7 @@ As seguintes tecnologias foram usadas na construção desse programa:
 Este projeto está sob a licença [MIT](https://github.com/Pedro0901/Questions-And-Answers/blob/master/LICENSE.txt).
 
 Feito com ❤️ por Pedro Dantas. [Entre em contato!](https://www.linkedin.com/in/pedro-paulo-dantas-costa/)
+
+## 🗣️ Outras versões do README:
+  
+  * 🇺🇸 [English/Inglês](https://github.com/Pedro0901/Questions-And-Answers/blob/master/README-EN.md)
