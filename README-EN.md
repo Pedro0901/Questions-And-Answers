@@ -27,7 +27,7 @@ Besides this it is good to have an editor to work with the code as: [VSCode](htt
 
   1. Create a folder where the files will go, you can do this using the command ```mkdir Folder_Name```.
   2. In GitBash, use the command ```cd Folder_Name``` to get into the folder.
-  3. Still in GitBash, use the command ```git clone https://github.com/Pedro0901/Questions-And-Answers.git```to clone the repository.
+  3. Still in GitBash, use the command ```git clone https://github.com/Pedro0901/Questions-And-Answers.git``` to clone the repository.
   4. After that the files go straight into the folder you created and you can run the program or make changes to the code.
   
 <b>Alternative method:</b>
