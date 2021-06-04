@@ -22,7 +22,24 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 ## 📜 Modo de Usar
 
-Basta clicar no arquivo "Perguntas_E_Respostas.exe" e executá-lo.
+<b>Sequência de passos - Usando GitBash:</b>
+  
+  1. Crie uma pasta para onde os arquivos irão, você pode fazer isso usando o comando ```mkdir Nome_da_Pasta```.
+  2. No GitBash, use o comando ```cd Nome_da_Pasta``` para que você entre na pasta.
+  3. Ainda no GitBash, use o comando ```git clone https://github.com/Pedro0901/Questions-And-Answers.git``` para clonar o repositório.
+  4. Após isso os arquivos vão direto para a pasta criada e você poderá executar o programa ou fazer alterações no código.
+  
+   Se estiverem com dúvidas, esse repositório pode ser útil: <b>[@Git4Noobs](https://github.com/DanielHe4rt/git4noobs)</b>.
+
+
+<b>Método alternativo:</b>
+
+![TutorialDownloadZip](https://user-images.githubusercontent.com/67847487/120869465-ebe93080-c56c-11eb-92ea-0d284cfd3153.jpg)
+
+Dentro do [repositório](https://github.com/Pedro0901/Questions-And-Answers), vá até "Code" e selecione a opção "Download zip".
+Após o download você deverá extrair esse arquivo .zip, usando algum programa como o [WinRar](https://www.win-rar.com/download.html?&L=0) para descompactar.
+
+Para rodar o programa, você só precisará clicar no arquivo <b>"Perguntas_E_Respostas.exe"</b> e executá-lo.
 
   * ### 🤔 Qual a funcionalidade dos arquivos do repositório?
     No repositório estão presentes os arquivos .exe, que nada mais é que a aplicação já compilada, e também o arquivo .cpp, que é o código fonte do programa.
